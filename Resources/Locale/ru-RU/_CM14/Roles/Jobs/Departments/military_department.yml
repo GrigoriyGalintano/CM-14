@@ -1,9 +1,0 @@
-﻿- type: department
-  id: MilitaryPolice
-  parent: DepartmentBaseCM
-  description: department-MilitaryPolice-description
-  color: "#DE3A3A"
-  roles:
-  - ChiefMP
-  - MilitaryWarden
-  - MilitaryPolice
