@@ -1,0 +1,62 @@
+- type: Tag
+  id: CartridgeCaseless10x20mm
+
+- type: Tag
+  id: CartridgePistol9mm
+
+- type: Tag
+  id: CartridgeRifle10x24mm
+
+- type: Tag
+  id: MagazineCaselessM39
+
+- type: Tag
+  id: CMMagazinePistolM4A3
+
+- type: Tag
+  id: MagazineRifleM41A
+
+- type: Tag
+  id: MagazineRifleM41AE2
+
+- type: Tag
+  id: MagazineRifleM4RA
+
+- type: Tag
+  id: CMMortarShell
+
+- type: Tag
+  id: CMBloodPack
+
+- type: Tag
+  id: CMGauze
+
+- type: Tag
+  id: CMOintment
+
+- type: Tag
+  id: CMFirstAidKit
+
+- type: Tag
+  id: CMSynthGraft
+
+- type: Tag
+  id: CMSurgicalLine
+
+- type: Tag
+  id: CMPillCanister
+
+- type: Tag
+  id: CMBurnKit
+
+- type: Tag
+  id: CMTraumaKit
+
+- type: Tag
+  id: Pouch
+
+- type: Tag
+  id: CMShellShotgun
+
+- type: Tag
+  id: CMMagazinePistol88m4AP

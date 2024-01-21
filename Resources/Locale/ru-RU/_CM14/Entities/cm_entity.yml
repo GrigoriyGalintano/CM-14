@@ -1,0 +1,5 @@
+﻿- type: entity
+  id: CMCorrodable
+  abstract: true
+  components:
+  - type: Corrodable
